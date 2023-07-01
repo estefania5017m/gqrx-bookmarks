@@ -1,44 +1,69 @@
 # Tag name          ;  color
 CB                  ; #ff0000
 AmateurRadio        ; #00ff00
+Untagged            ; #c0c0c0
 FamilyRadio         ; #0000ff
 
 # Frequency ; Name                     ; Modulation          ;  Bandwidth; Tags
-    26965000; CB01                     ; WFM (mono)          ;     160000; CB
-    26975000; CB02                     ; WFM (mono)          ;     160000; CB
-    26985000; CB03                     ; WFM (mono)          ;     160000; CB
-    27005000; CB04                     ; WFM (mono)          ;     160000; CB
-    27015000; CB05                     ; WFM (mono)          ;     160000; CB
-    27025000; CB06                     ; WFM (mono)          ;     160000; CB
-    27035000; CB07                     ; WFM (mono)          ;     160000; CB
-    27055000; CB08                     ; WFM (mono)          ;     160000; CB
-    27065000; CB09                     ; WFM (mono)          ;     160000; CB
-    27075000; CB10                     ; WFM (mono)          ;     160000; CB
-    27085000; CB11                     ; WFM (mono)          ;     160000; CB
-    27105000; CB12                     ; WFM (mono)          ;     160000; CB
-    27115000; CB13                     ; WFM (mono)          ;     160000; CB
-    27125000; CB14                     ; WFM (mono)          ;     160000; CB
-    27135000; CB15                     ; WFM (mono)          ;     160000; CB
-    27155000; CB16                     ; WFM (mono)          ;     160000; CB
-    27165000; CB17                     ; WFM (mono)          ;     160000; CB
-    27175000; CB18                     ; WFM (mono)          ;     160000; CB
-    27185000; CB19                     ; WFM (mono)          ;     160000; CB
-    27205000; CB20                     ; WFM (mono)          ;     160000; CB
-    27215000; CB21                     ; WFM (mono)          ;     160000; CB
-    27225000; CB22                     ; WFM (mono)          ;     160000; CB
-    27235000; CB24                     ; WFM (mono)          ;     160000; CB
-    27255000; CB23                     ; WFM (mono)          ;     160000; CB
-   101300000; 101.3 FM                 ; WFM (mono)          ;     160000; Untagged
+    26965000; CB01                     ; AM                  ;      10000; CB
+    26975000; CB02                     ; AM                  ;      10000; CB
+    26985000; CB03                     ; AM                  ;      10000; CB
+    27005000; CB04                     ; AM                  ;      10000; CB
+    27015000; CB05                     ; AM                  ;      10000; CB
+    27025000; CB06                     ; AM                  ;      10000; CB
+    27035000; CB07                     ; AM                  ;      10000; CB
+    27055000; CB08                     ; AM                  ;      10000; CB
+    27065000; CB09                     ; AM                  ;      10000; CB
+    27075000; CB10                     ; AM                  ;      10000; CB
+    27085000; CB11                     ; AM                  ;      10000; CB
+    27105000; CB12                     ; AM                  ;      10000; CB
+    27115000; CB13                     ; AM                  ;      10000; CB
+    27125000; CB14                     ; AM                  ;      10000; CB
+    27135000; CB15                     ; AM                  ;      10000; CB
+    27155000; CB16                     ; AM                  ;      10000; CB
+    27165000; CB17                     ; AM                  ;      10000; CB
+    27175000; CB18                     ; AM                  ;      10000; CB
+    27185000; CB19                     ; AM                  ;      10000; CB
+    27205000; CB20                     ; AM                  ;      10000; CB
+    27.21500; CB21                     ; AM                  ;      10000; CB
+    27.22500; CB22                     ; AM                  ;      10000; CB
+    27.25500; CB23                     ; AM                  ;      10000; CB
+    27.23500; CB24                     ; AM                  ;      10000; CB
+    27.24500; CB25                     ; AM                  ;      10000; CB
+    27.26500; CB26                     ; AM                  ;      10000; CB
+    27.27500; CB27                     ; AM                  ;      10000; CB
+    27.28500; CB28                     ; AM                  ;      10000; CB
+    27.29500; CB29                     ; AM                  ;      10000; CB
+    27.30500; CB30                     ; AM                  ;      10000; CB
+    27.31500; CB31                     ; AM                  ;      10000; CB
+    27.32500; CB32                     ; AM                  ;      10000; CB
+    27.33500; CB33                     ; AM                  ;      10000; CB
+    27.34500; CB34                     ; AM                  ;      10000; CB
+    27.35500; CB35                     ; AM                  ;      10000; CB
+    27.36500; CB36                     ; AM                  ;      10000; CB
+    27.37500; CB37                     ; AM                  ;      10000; CB
+    27.38500; CB38                     ; AM                  ;      10000; CB
+    27.39500; CB39                     ; AM                  ;      10000; CB
+    27.40500; CB40                     ; AM                  ;      10000; CB
+   101300000; 101.3 FM                 ; AM                  ;      10000; Untagged
    145290000; Amateur Radio Repeator   ; Narrow FM           ;      10000; AmateurRadio
    145330000; Chat                     ; Narrow FM           ;      10000; AmateurRadio
    162428000; Weather                  ; WFM (mono)          ;      30000; Untagged
+   462550000; FRS15                    ; WFM (mono)          ;     120000; FamilyRadio
    462562500; FRS01                    ; WFM (mono)          ;     120000; FamilyRadio
+   462575000; FRS16                    ; WFM (mono)          ;     120000; FamilyRadio
    462587500; FRS02                    ; WFM (mono)          ;     120000; FamilyRadio
+   462600000; FRS17                    ; WFM (mono)          ;     120000; FamilyRadio
    462612500; FRS03                    ; WFM (mono)          ;     120000; FamilyRadio
+   462625000; FRS18                    ; WFM (mono)          ;     120000; FamilyRadio
    462637500; FRS04                    ; WFM (mono)          ;     120000; FamilyRadio
+   462650000; FRS19                    ; WFM (mono)          ;     120000; FamilyRadio
    462662500; FRS05                    ; WFM (mono)          ;     120000; FamilyRadio
+   462675000; FRS20                    ; WFM (mono)          ;     120000; FamilyRadio
    462687500; FRS06                    ; WFM (mono)          ;     120000; FamilyRadio
+   462700000; FRS21                    ; WFM (mono)          ;     120000; FamilyRadio
    462712500; FRS07                    ; WFM (mono)          ;     120000; FamilyRadio
+   462725000; FRS22                    ; WFM (mono)          ;     120000; FamilyRadio
    467562500; FRS08                    ; WFM (mono)          ;     120000; FamilyRadio
    467587500; FRS09                    ; WFM (mono)          ;     120000; FamilyRadio
    467612500; FRS10                    ; WFM (mono)          ;     120000; FamilyRadio
@@ -46,11 +71,3 @@ FamilyRadio         ; #0000ff
    467662500; FRS12                    ; WFM (mono)          ;     120000; FamilyRadio
    467687500; FRS13                    ; WFM (mono)          ;     120000; FamilyRadio
    467712500; FRS14                    ; WFM (mono)          ;     120000; FamilyRadio
-   462550000; FRS15                    ; WFM (mono)          ;     120000; FamilyRadio
-   462575000; FRS16                    ; WFM (mono)          ;     120000; FamilyRadio
-   462600000; FRS17                    ; WFM (mono)          ;     120000; FamilyRadio
-   462625000; FRS18                    ; WFM (mono)          ;     120000; FamilyRadio
-   462650000; FRS19                    ; WFM (mono)          ;     120000; FamilyRadio
-   462675000; FRS20                    ; WFM (mono)          ;     120000; FamilyRadio
-   462700000; FRS21                    ; WFM (mono)          ;     120000; FamilyRadio
-   462725000; FRS22                    ; WFM (mono)          ;     120000; FamilyRadio
