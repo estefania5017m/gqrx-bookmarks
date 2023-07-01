@@ -1,3 +1,9 @@
+# Tag name          ;  color
+CB                  ; #ff0000
+AmateurRadio        ; #00ff00
+FamilyRadio         ; #0000ff
+
+# Frequency ; Name                     ; Modulation          ;  Bandwidth; Tags
     26965000; CB01                     ; WFM (mono)          ;     160000; CB
     26975000; CB02                     ; WFM (mono)          ;     160000; CB
     26985000; CB03                     ; WFM (mono)          ;     160000; CB
