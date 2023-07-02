@@ -2,6 +2,10 @@
 
 Bookmarks for GQRX: Community Broadcast CB, Family Radio, etc.
 
+## Why
+
+For the life of me I could not find an existing set of GQRX bookmarks/presets for common stations.
+
 ## Installation
 
 1. Locate your GQRX configuration folder
