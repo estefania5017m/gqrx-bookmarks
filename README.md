@@ -8,3 +8,7 @@ Bookmarks for GQRX: Community Broadcast CB, Family Radio, etc.
   - This is probably `~/.config/gqrx`
 2. Copy the `bookmarks.csv` file to this directory
 3. Launch GQRX
+
+## Screenshot
+
+![GQRX Screenshot with bookmarks loaded](screenshot.png)
