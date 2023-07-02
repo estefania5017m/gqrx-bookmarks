@@ -4,8 +4,8 @@ AmateurRadio        ; #00ff00
 Untagged            ; #c0c0c0
 FamilyRadio         ; #0000ff
 MURS                ; #ffff00
-RMRadio             ; #ff00ff
 AMRadio             ; #ff00ff
+PublicService       ; #000000
 
 # Frequency ; Name                     ; Modulation          ;  Bandwidth; Tags
     26965000; CB01                     ; AM                  ;      10000; CB
@@ -150,7 +150,7 @@ AMRadio             ; #ff00ff
    107700000; 107.7 FM                 ; WFM (stereo)        ;     200000; FMRadio
    145290000; Amateur Radio Repeator   ; Narrow FM           ;      10000; AmateurRadio
    145330000; Chat                     ; Narrow FM           ;      10000; AmateurRadio
-   162428000; Weather                  ; WFM (mono)          ;      30000; Untagged
+   162400000; SF Weather KHB49         ; WFM (mono)          ;      30000; PublicService
    462562500; FRS01                    ; Narrow FM           ;       5000; FamilyRadio
    462587500; FRS02                    ; Narrow FM           ;       5000; FamilyRadio
    462612500; FRS03                    ; Narrow FM           ;       5000; FamilyRadio
