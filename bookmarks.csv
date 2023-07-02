@@ -3,6 +3,7 @@ CB                  ; #ff0000
 AmateurRadio        ; #00ff00
 Untagged            ; #c0c0c0
 FamilyRadio         ; #0000ff
+MURS                ; #ffff00
 
 # Frequency ; Name                     ; Modulation          ;  Bandwidth; Tags
     26965000; CB01                     ; AM                  ;      10000; CB
@@ -49,21 +50,13 @@ FamilyRadio         ; #0000ff
    145290000; Amateur Radio Repeator   ; Narrow FM           ;      10000; AmateurRadio
    145330000; Chat                     ; Narrow FM           ;      10000; AmateurRadio
    162428000; Weather                  ; WFM (mono)          ;      30000; Untagged
-   462550000; FRS15                    ; Narrow FM           ;       5000; FamilyRadio
    462562500; FRS01                    ; Narrow FM           ;       5000; FamilyRadio
-   462575000; FRS16                    ; Narrow FM           ;       5000; FamilyRadio
    462587500; FRS02                    ; Narrow FM           ;       5000; FamilyRadio
-   462600000; FRS17                    ; Narrow FM           ;       5000; FamilyRadio
    462612500; FRS03                    ; Narrow FM           ;       5000; FamilyRadio
-   462625000; FRS18                    ; Narrow FM           ;       5000; FamilyRadio
    462637500; FRS04                    ; Narrow FM           ;       5000; FamilyRadio
-   462650000; FRS19                    ; Narrow FM           ;       5000; FamilyRadio
    462662500; FRS05                    ; Narrow FM           ;       5000; FamilyRadio
-   462675000; FRS20                    ; Narrow FM           ;       5000; FamilyRadio
    462687500; FRS06                    ; Narrow FM           ;       5000; FamilyRadio
-   462700000; FRS21                    ; Narrow FM           ;       5000; FamilyRadio
    462712500; FRS07                    ; Narrow FM           ;       5000; FamilyRadio
-   462725000; FRS22                    ; Narrow FM           ;       5000; FamilyRadio
    467562500; FRS08                    ; Narrow FM           ;       5000; FamilyRadio
    467587500; FRS09                    ; Narrow FM           ;       5000; FamilyRadio
    467612500; FRS10                    ; Narrow FM           ;       5000; FamilyRadio
@@ -71,3 +64,16 @@ FamilyRadio         ; #0000ff
    467662500; FRS12                    ; Narrow FM           ;       5000; FamilyRadio
    467687500; FRS13                    ; Narrow FM           ;       5000; FamilyRadio
    467712500; FRS14                    ; Narrow FM           ;       5000; FamilyRadio
+   462550000; FRS15                    ; Narrow FM           ;       5000; FamilyRadio
+   462575000; FRS16                    ; Narrow FM           ;       5000; FamilyRadio
+   462600000; FRS17                    ; Narrow FM           ;       5000; FamilyRadio
+   462625000; FRS18                    ; Narrow FM           ;       5000; FamilyRadio
+   462650000; FRS19                    ; Narrow FM           ;       5000; FamilyRadio
+   462675000; FRS20                    ; Narrow FM           ;       5000; FamilyRadio
+   462700000; FRS21                    ; Narrow FM           ;       5000; FamilyRadio
+   462725000; FRS22                    ; Narrow FM           ;       5000; FamilyRadio
+   151820000; MURS 151.820 MHz         ; WFM (mono)          ;      11250; MURS
+   151880000; MURS 151.880 MHz         ; WFM (mono)          ;      11250; MURS
+   151940000; MURS 151.940 MHz         ; WFM (mono)          ;      11250; MURS
+   154570000; MURS 154.570 MHz         ; WFM (mono)          ;      20000; MURS
+   154600000; MURS 154.600 MHz         ; WFM (mono)          ;      20000; MURS
