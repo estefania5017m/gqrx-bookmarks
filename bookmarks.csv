@@ -49,25 +49,25 @@ FamilyRadio         ; #0000ff
    145290000; Amateur Radio Repeator   ; Narrow FM           ;      10000; AmateurRadio
    145330000; Chat                     ; Narrow FM           ;      10000; AmateurRadio
    162428000; Weather                  ; WFM (mono)          ;      30000; Untagged
-   462550000; FRS15                    ; WFM (mono)          ;     120000; FamilyRadio
-   462562500; FRS01                    ; WFM (mono)          ;     120000; FamilyRadio
-   462575000; FRS16                    ; WFM (mono)          ;     120000; FamilyRadio
-   462587500; FRS02                    ; WFM (mono)          ;     120000; FamilyRadio
-   462600000; FRS17                    ; WFM (mono)          ;     120000; FamilyRadio
-   462612500; FRS03                    ; WFM (mono)          ;     120000; FamilyRadio
-   462625000; FRS18                    ; WFM (mono)          ;     120000; FamilyRadio
-   462637500; FRS04                    ; WFM (mono)          ;     120000; FamilyRadio
-   462650000; FRS19                    ; WFM (mono)          ;     120000; FamilyRadio
-   462662500; FRS05                    ; WFM (mono)          ;     120000; FamilyRadio
-   462675000; FRS20                    ; WFM (mono)          ;     120000; FamilyRadio
-   462687500; FRS06                    ; WFM (mono)          ;     120000; FamilyRadio
-   462700000; FRS21                    ; WFM (mono)          ;     120000; FamilyRadio
-   462712500; FRS07                    ; WFM (mono)          ;     120000; FamilyRadio
-   462725000; FRS22                    ; WFM (mono)          ;     120000; FamilyRadio
-   467562500; FRS08                    ; WFM (mono)          ;     120000; FamilyRadio
-   467587500; FRS09                    ; WFM (mono)          ;     120000; FamilyRadio
-   467612500; FRS10                    ; WFM (mono)          ;     120000; FamilyRadio
-   467637500; FRS11                    ; WFM (mono)          ;     120000; FamilyRadio
-   467662500; FRS12                    ; WFM (mono)          ;     120000; FamilyRadio
-   467687500; FRS13                    ; WFM (mono)          ;     120000; FamilyRadio
-   467712500; FRS14                    ; WFM (mono)          ;     120000; FamilyRadio
+   462550000; FRS15                    ; Narrow FM           ;       5000; FamilyRadio
+   462562500; FRS01                    ; Narrow FM           ;       5000; FamilyRadio
+   462575000; FRS16                    ; Narrow FM           ;       5000; FamilyRadio
+   462587500; FRS02                    ; Narrow FM           ;       5000; FamilyRadio
+   462600000; FRS17                    ; Narrow FM           ;       5000; FamilyRadio
+   462612500; FRS03                    ; Narrow FM           ;       5000; FamilyRadio
+   462625000; FRS18                    ; Narrow FM           ;       5000; FamilyRadio
+   462637500; FRS04                    ; Narrow FM           ;       5000; FamilyRadio
+   462650000; FRS19                    ; Narrow FM           ;       5000; FamilyRadio
+   462662500; FRS05                    ; Narrow FM           ;       5000; FamilyRadio
+   462675000; FRS20                    ; Narrow FM           ;       5000; FamilyRadio
+   462687500; FRS06                    ; Narrow FM           ;       5000; FamilyRadio
+   462700000; FRS21                    ; Narrow FM           ;       5000; FamilyRadio
+   462712500; FRS07                    ; Narrow FM           ;       5000; FamilyRadio
+   462725000; FRS22                    ; Narrow FM           ;       5000; FamilyRadio
+   467562500; FRS08                    ; Narrow FM           ;       5000; FamilyRadio
+   467587500; FRS09                    ; Narrow FM           ;       5000; FamilyRadio
+   467612500; FRS10                    ; Narrow FM           ;       5000; FamilyRadio
+   467637500; FRS11                    ; Narrow FM           ;       5000; FamilyRadio
+   467662500; FRS12                    ; Narrow FM           ;       5000; FamilyRadio
+   467687500; FRS13                    ; Narrow FM           ;       5000; FamilyRadio
+   467712500; FRS14                    ; Narrow FM           ;       5000; FamilyRadio
